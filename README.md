@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on developing a machine learning model to predict stock market trends.
+- 🌱 I’m currently learning advanced data visualization techniques using Python libraries.
+- 👯 I’m looking to collaborate on open-source AI projects, especially in natural language processing.
+- 🤔 I’m looking for help with improving the performance of my neural network models.
+- 💬 Ask me about data science, machine learning, or Python programming.
+- 📫 How to reach me: You can email me at yourname@example.com or connect with me on LinkedIn.
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I have a black belt in Taekwondo and love to paint abstract art in my free time.
